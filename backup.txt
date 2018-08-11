@@ -1,2 +1,5 @@
-Note to self: FileZilla Server, localhost, password is anonymous, username is
-anonymous.
+Note to self: FileZilla Server, localhost, port is 2121.
+Password is anonymous, username is anonymous. Don't forget
+to make a user ("anonymous", "anonymous") and give it a
+shared folder linked to ds-save-backup (no alias).
+To maintain sanity, set timeout to be 0 (no timeout).
