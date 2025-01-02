@@ -1,0 +1,14 @@
+This text file written: 2025-01-02
+Save file's name at time of writing:
+DRAGONQUEST9_REBALANCE---2021-12-14.dsv
+
+In-game info:
+Heroine: Flare
+Play time: 1:38:55
+
+From DSTwo microSD:
+/Games/Shelf/DQ9_REBALANCE.dsv
+
+Finder info on-drive (above):
+Created: 2021-12-14 at 12:22 PM
+Modified: 2018-05-09 at 3:00 AM

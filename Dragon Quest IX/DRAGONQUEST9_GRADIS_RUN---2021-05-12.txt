@@ -1,0 +1,10 @@
+This text file written: 2025-01-02
+Save file's name at time of writing:
+DRAGONQUEST9_GRADIS_RUN---2021-05-12.sav
+
+In-game info:
+Heroine: Solace
+Play time: 12:35:55
+
+Finder info on miniminimini:
+N/A, this is a new git clone

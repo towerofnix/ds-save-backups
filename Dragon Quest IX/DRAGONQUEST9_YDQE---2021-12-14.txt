@@ -1,0 +1,31 @@
+This text file written: 2025-01-02
+Save file's name at time of writing:
+DRAGONQUEST9_YDQE---2012-12-14.sav
+
+In-game info:
+Hero: LIam
+Play time: 587:26:59
+
+From DSTwo microSD:
+/Games/SAVES/DQ9/Main/DQ9_YDQE.sav
+
+Finder info on-drive (above):
+Created: 2021-12-14 at 12:24 PM
+Modified: 2018-12-24 at 3:43 PM
+
+Finder info on miniminimini:
+Created: 2021-12-14 at 12:24 PM
+Modified: 2021-05-12 at 12:44 PM
+
+We have no idea why Finder disagrees here!!
+We're pretty sure we just copied the file
+over basically right before writing this
+text file, and yet the date modified is
+somehow something else.
+
+We're assuming the date created, consistent
+between the microSD drive and our SSD, is
+correct. It's certainly not from all the way
+back in 2018-12-24, because we *have* a file
+from right about then, and it has 100 fewer
+in-game play hours.

@@ -1,0 +1,23 @@
+This text file written: 2025-01-02
+Save file's name at time of writing:
+DRAGONQUEST9_YQDE---2025-01-02.sav
+
+In-game info:
+Hero: LIam
+Play time: 588:32:32
+
+Manually created in this git repository.
+This is a 1:1 copy of:
+DRAGONQUEST9_REBALANCE_SAVE2---2023-06-29.sav
+
+Which is in turn from iCloud Drive:
+~/Documents/Games (iCloud)/Nintendo DS/DRAGONQUEST9_REBALANCE_SAVE2.sav
+
+This is apparently the very latest save which
+we have access to, at ime of writring.
+
+It probably has some playtime in the rebalance
+mod, but we're pretty sure save files are
+compatible between those two games, so we're
+treating this as the future-facing "main" one,
+even for the original game ROM!

@@ -1,0 +1,10 @@
+This text file written: 2025-01-02
+Save file's name at time of writing:
+DRAGONQUEST9_YDQE---2018-01-31.sav
+
+In-game info:
+Hero: LIam
+Play time: 441:48:50
+
+Finder info on miniminimini:
+N/A, this is a new git clone
