@@ -14,7 +14,7 @@ Which is in turn from iCloud Drive:
 ~/Documents/Games (iCloud)/Nintendo DS/DRAGONQUEST9_REBALANCE_SAVE2.sav
 
 This is apparently the very latest save which
-we have access to, at ime of writring.
+we have access to, at time of writring.
 
 It probably has some playtime in the rebalance
 mod, but we're pretty sure save files are

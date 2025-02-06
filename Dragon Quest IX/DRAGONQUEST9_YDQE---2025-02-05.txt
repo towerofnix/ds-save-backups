@@ -1,0 +1,18 @@
+This text file written: 2025-02-05
+Save file's name at time of writing:
+DRAGONQUEST9_YQDE---2025-02-05.sav
+
+In-game info:
+Hero: LIam
+Play time: 614:46:47
+
+From DeSmuME export:
+Device: cc101 (wine)
+Access: File > Export Backup Memory...
+
+This save file includes more playtime using
+TKG_DQ9's "Random Battlefield in Grottoes"
+lua script. We suddenly remember so clearly
+how addicting this game is (and love it).
+
+https://gamefaqs.gamespot.com/boards/937281-dragon-quest-ix-sentinels-of-the-starry-skies/80916709?jumpto=2#2

@@ -1,0 +1,27 @@
+This text file written: 2025-01-25
+Save file's name at time of writing:
+DRAGONQUEST9_YQDE---2025-01-25.sav
+
+In-game info:
+Hero: LIam
+Play time: 598:34:24
+
+From Delta internal files:
+Device: I Started Work On 8/19
+Access: Finder > [device] > Files > Delta > Database (copy to desktop)
+File: Database/Games/ff761d349709f329c8ac4bd0023fdce21861e8a1.dsv
+
+This is an export which includes 10hrs playtime
+since 2025-01-02. We exported it mainly in order
+to load the save into DeSmuME. Some investigation
+later, it works!
+
+DeSmuME apparently recognizes the kind of save
+file in part based on the file extension.
+We did not need to change the contents of the
+file at all (i.e. we didn't need to convert it
+between save formats online). However, we did
+need to change the .dsv extension to .sav.
+Then it imported into DeSmuME correctly, via
+File > Import ROM Save File... (v0.9.13 macOS)
+or File > Import Backup Memory (v0.9.13 Windows).

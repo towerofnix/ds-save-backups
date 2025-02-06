@@ -1,0 +1,44 @@
+This text file written: 2025-01-25
+Save file's name at time of writing:
+DRAGONQUEST9_YQDE---2025-01-25b.sav
+
+In-game info:
+Hero: LIam
+Play time: 602:17:06
+
+From DeSmuME export:
+Device: cc101 (wine)
+Access: File > Export Backup Memory...
+
+We passed 600 hours playtime! Yay!
+
+This save file includes playtime using TKG_DQ9's
+"Random Battlefield in Grottoes" lua script,
+which can only be run in the Windows build of
+DeSmuME.
+
+https://gamefaqs.gamespot.com/boards/937281-dragon-quest-ix-sentinels-of-the-starry-skies/80916709?jumpto=2#2
+
+These are our DeSmuME configuration settings:
+Config > Frame Skip > 0 (never skip)
+Config > Frame Skip > Limit framerate
+Config > Display Method > OpenGL
+Config > Emulation Settings > all default
+  (Enable Advanced Bus-Level Timing: on)
+  (Enable Game Hacks: on)
+  (Use dynamic recompiler: off)
+Config > Sound Settings > Dual SPU Synch/Async
+Config > 3D Settings > GPU Scaling Factor: 1 or 2
+  (According to preference. 1 does seem to run
+   smoother and reflects in-game graphics more
+   accurately to developers' intention, which
+   is nice for the randomized backgrounds.
+   But upscaling is always cool.)
+
+We did not configure the key/button mapping,
+because Config > Control Config crashes (lol).
+As a refresher on the defaults:
+  kbd X -> btn A
+  kbd Z -> btn B
+  kbd S -> btn X
+  kbd A -> btn Y
