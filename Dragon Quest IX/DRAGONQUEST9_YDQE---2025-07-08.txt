@@ -1,0 +1,11 @@
+This text file written: 2025-07-08
+Save file's name at time of writing:
+DRAGONQUEST9_YQDE---2025-07-08.sav
+
+In-game info:
+Hero: LIam
+Play time: 647:34:21
+
+From DeSmuME export:
+Device: cc101 (wine)
+Access: File > Export Backup Memory...
